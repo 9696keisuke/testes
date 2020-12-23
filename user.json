@@ -1,0 +1,23 @@
+test006
+{
+    "Item": {
+        "patern": {
+            "S": "1"
+        },
+        "userId": {
+            "S": "1"
+        }
+    }
+}
+test006
+{
+    "Item": {
+        "patern": {
+            "S": "1"
+        },
+        "userId": {
+            "S": "1"
+        }
+    }
+}
+test006
